@@ -1,0 +1,33 @@
+{
+  "colors": [
+    {"name": "Red", "value": "#FF6B6B", "description": "Energetic and bold"},
+    {"name": "Blue", "value": "#4ECDC4", "description": "Calm and trustworthy"},
+    {"name": "Green", "value": "#45B7D1", "description": "Natural and peaceful"},
+    {"name": "Purple", "value": "#96CEB4", "description": "Creative and mysterious"},
+    {"name": "Orange", "value": "#FFEAA7", "description": "Warm and enthusiastic"},
+    {"name": "Pink", "value": "#DDA0DD", "description": "Playful and gentle"}
+  ],
+  "passions": [
+    {"name": "Music", "keywords": ["musical notes", "headphones", "instruments"]},
+    {"name": "Sports", "keywords": ["athletic", "sporty outfit", "dynamic pose"]},
+    {"name": "Art", "keywords": ["paint brush", "creative", "artistic flair"]},
+    {"name": "Reading", "keywords": ["books", "glasses", "intellectual"]},
+    {"name": "Gaming", "keywords": ["game controller", "tech-savvy", "modern"]},
+    {"name": "Cooking", "keywords": ["chef hat", "apron", "kitchen utensils"]},
+    {"name": "Travel", "keywords": ["backpack", "map", "adventurous"]},
+    {"name": "Nature", "keywords": ["plants", "outdoor", "earth tones"]},
+    {"name": "Technology", "keywords": ["gadgets", "futuristic", "digital"]},
+    {"name": "Photography", "keywords": ["camera", "lens", "artistic eye"]}
+  ],
+  "styles": [
+    {"name": "cartoon", "description": "Cartoon-style with exaggerated features"},
+    {"name": "anime", "description": "Anime/manga inspired with large eyes"},
+    {"name": "realistic", "description": "Semi-realistic with natural proportions"},
+    {"name": "abstract", "description": "Abstract and artistic interpretation"}
+  ],
+  "environment": {
+    "name": "Test Environment",
+    "description": "Default test environment for character generation",
+    "version": "1.0"
+  }
+}
